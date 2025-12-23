@@ -9,3 +9,4 @@
 ### 3) Ensemble translation eval
 #### https://www.kaggle.com/code/vuhuycong/ensemble-translation
 ## Bài tập phụ
+### Hai mô hình được finetune trên mô hình Gwen 0.5B
