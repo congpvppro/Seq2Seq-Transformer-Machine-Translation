@@ -10,7 +10,7 @@
     "strategy": {
       "Fixed": 256
     },
-    "direction": "Right",
+    "direction": "Left",
     "pad_to_multiple_of": null,
     "pad_id": 151643,
     "pad_type_id": 0,
